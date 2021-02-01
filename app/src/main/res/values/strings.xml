@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">IbericaJava</string>
+
+    <!-- Login -->
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+
+    <!-- Buttons -->
+    <string name="login">Iniciar sesión</string>
+    <string name="save">Guardar</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+
+    <!-- Message -->
+    <string name="invalid_credentials">Usuario o contraseña incorrectas</string>
+    <string name="empty_fields">Campos vacíos, por favor, ingresa la información.</string>
+    <string name="add_successful">Se agregó la nota correctamente</string>
+    <string name="update_successful">La nota se actualizó correctamente</string>
+    <string name="update_failed">La nota no se pudo actualizar</string>
+    <string name="delete_successful">La nota se eliminó correctamente</string>
+
+    <string name="title_not">Título</string>
+    <string name="desc_note">Descripción</string>
+
+</resources>
